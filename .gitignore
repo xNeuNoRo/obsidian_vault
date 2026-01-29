@@ -1,0 +1,16 @@
+# --- Obsidian Core ---
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.trash/
+
+# --- Plugins Específicos (Make.md / Spaces) ---
+# Estos archivos cambian con cada clic y ensucian el historial
+.makemd/
+.space/
+*.mdb
+
+# --- Archivos de Sistema ---
+.DS_Store
+Thumbs.db

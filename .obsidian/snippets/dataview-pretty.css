@@ -1,0 +1,38 @@
+/* ===== Dataview tables: más "nativas" y limpias ===== */
+table.dataview {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* encabezado */
+table.dataview thead th {
+    font-weight: 700;
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding: 10px 12px;
+}
+
+/* celdas */
+table.dataview td {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--background-modifier-border);
+    vertical-align: top;
+}
+
+/* zebra suave */
+table.dataview tbody tr:nth-child(odd) td {
+    background: color-mix(in srgb, var(--background-primary) 92%, var(--background-secondary) 8%);
+}
+
+/* hover */
+table.dataview tbody tr:hover td {
+    background: var(--background-secondary);
+}
+
+/* quita la columna "File" si te molesta el look */
+table.dataview th:first-child,
+table.dataview td:first-child {
+    display: none;
+}
