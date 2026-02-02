@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "CSS - Box Model y Propiedades de Caja",
-      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Box Model y Propiedades de Caja.md"
+      "basename": "CSS - Unidades y Tipografía",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Unidades y Tipografía.md"
     },
     {
       "basename": "CSS - Fundamentos y Selectores",
       "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Fundamentos y Selectores.md"
+    },
+    {
+      "basename": "CSS - Box Model y Propiedades de Caja",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Box Model y Propiedades de Caja.md"
+    },
+    {
+      "basename": "CSS - Grid Pro (Arquitectura y Control Dinámico)",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Grid Pro (Arquitectura y Control Dinámico).md"
+    },
+    {
+      "basename": "CSS - Flexbox Pro (Arquitectura y Casos de Borde)",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Flexbox Pro (Arquitectura y Casos de Borde).md"
+    },
+    {
+      "basename": "CSS - Flexbox y Layout Unidimensional",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Flexbox y Layout Unidimensional.md"
+    },
+    {
+      "basename": "CSS - Grid y Layout Bidimensional",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Grid y Layout Bidimensional.md"
+    },
+    {
+      "basename": "Fundamentos",
+      "path": "03_Conocimiento/Frontend/Fundamentos/Fundamentos.md"
     },
     {
       "basename": "HTML - Accesibilidad y SEO",
@@ -175,30 +199,6 @@
     {
       "basename": "Saga",
       "path": "03_Conocimiento/Patrones/Backend/Saga.md"
-    },
-    {
-      "basename": "Transactional Outbox",
-      "path": "03_Conocimiento/Patrones/Backend/Transactional Outbox.md"
-    },
-    {
-      "basename": "Cache-Aside",
-      "path": "03_Conocimiento/Patrones/Backend/Cache-Aside.md"
-    },
-    {
-      "basename": "Idempotency Key",
-      "path": "03_Conocimiento/Patrones/Backend/Idempotency Key.md"
-    },
-    {
-      "basename": "Bulkhead",
-      "path": "03_Conocimiento/Patrones/Backend/Bulkhead.md"
-    },
-    {
-      "basename": "Timeout",
-      "path": "03_Conocimiento/Patrones/Backend/Timeout.md"
-    },
-    {
-      "basename": "Rate Limiting",
-      "path": "03_Conocimiento/Patrones/Backend/Rate Limiting.md"
     }
   ],
   "omittedPaths": [],

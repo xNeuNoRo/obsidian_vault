@@ -123,7 +123,7 @@ button { color: blue; }
 ```
 
 ## 6. Transformaciones Básicas
-Aunque se profundiza después, el curso menciona transformaciones iniciales para interactividad:
+Transformaciones iniciales para interactividad en cualquier pagina:
 - `transform: scale(1.1)`: Aumenta el tamaño.
 - `transform: rotate(45deg)`: Rota el elemento.
 - `transform: translateX(20px)`: Desplaza en el eje X.
