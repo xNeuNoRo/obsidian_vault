@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS - Pseudo-clases y Combinadores",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Pseudo-clases y Combinadores.md"
+    },
+    {
+      "basename": "HTML - Semántica y Estructura",
+      "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Semántica y Estructura.md"
+    },
+    {
       "basename": "CSS - Unidades y Tipografía",
       "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Unidades y Tipografía.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "HTML - Diccionario de Componentes",
       "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Diccionario de Componentes.md"
-    },
-    {
-      "basename": "HTML - Semántica y Estructura",
-      "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Semántica y Estructura.md"
     },
     {
       "basename": "Core",
@@ -195,10 +199,6 @@
     {
       "basename": "CQRS",
       "path": "03_Conocimiento/Patrones/Backend/CQRS.md"
-    },
-    {
-      "basename": "Saga",
-      "path": "03_Conocimiento/Patrones/Backend/Saga.md"
     }
   ],
   "omittedPaths": [],
