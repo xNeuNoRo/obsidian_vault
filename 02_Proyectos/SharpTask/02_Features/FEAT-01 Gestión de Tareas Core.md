@@ -51,7 +51,7 @@ Como **usuario del sistema** quiero **gestionar mi lista de tareas (crear, leer,
 - [[RF-05 Eliminar Tarea]]
 
 ### No funcionales
-- [[RNF-01 Persistencia mediante Archivos JSON]]
+- [[RNF-01 Persistencia en Archivos JSON]]
 - [[RNF-02 Manejo Correcto de Códigos HTTP]]
 
 ## Flujo / UX (si aplica)

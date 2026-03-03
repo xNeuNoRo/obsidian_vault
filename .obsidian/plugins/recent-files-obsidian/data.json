@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "FEAT-01 Gestión de Tareas Core",
+      "path": "02_Proyectos/SharpTask/02_Features/FEAT-01 Gestión de Tareas Core.md"
+    },
+    {
       "basename": "RF-09 Eliminar Nota",
       "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-09 Eliminar Nota.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "RF-01 Crear Tarea",
       "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-01 Crear Tarea.md"
-    },
-    {
-      "basename": "FEAT-01 Gestión de Tareas Core",
-      "path": "02_Proyectos/SharpTask/02_Features/FEAT-01 Gestión de Tareas Core.md"
     },
     {
       "basename": "ADR-01 Elección de Stack y Persistencia",
