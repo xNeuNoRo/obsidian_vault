@@ -1,8 +1,8 @@
 ---
 doc: roadmap
-project: ""
+project: SharpTask
 status: Draft
-owner: ""
+owner: Angel Gonzalez M.
 created: 2026-03-02
 updated: 2026-03-02
 tags:

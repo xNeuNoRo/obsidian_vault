@@ -23,7 +23,7 @@ sticker: lucide//asterisk
 # `= this.project`
 
 > [!summary] Resumen
-> (1–3 líneas) Qué es el proyecto y qué valor entrega.
+> Sistema de gestión de tareas (TODO List) inspirado en UpTask. Desarrollado con una API REST en C# y un frontend moderno (Next.js/React), destaca por utilizar exclusivamente archivos JSON como mecanismo de persistencia, implementando lectura/escritura segura y manejo de concurrencia.
 
 ## Estado rápido
 - **Estado:** `= this.status`
