@@ -1,0 +1,204 @@
+{
+  "recentFiles": [
+    {
+      "basename": "FEAT-01 Gestión de Tareas Core",
+      "path": "02_Proyectos/SharpTask/02_Features/FEAT-01 Gestión de Tareas Core.md"
+    },
+    {
+      "basename": "RF-09 Eliminar Nota",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-09 Eliminar Nota.md"
+    },
+    {
+      "basename": "RF-08 Editar Nota",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-08 Editar Nota.md"
+    },
+    {
+      "basename": "RF-07 Listar Notas por Tarea",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-07 Listar Notas por Tarea.md"
+    },
+    {
+      "basename": "RF-06 Crear Nota",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-06 Crear Nota.md"
+    },
+    {
+      "basename": "FEAT-04 Dashboard Interactivo (Frontend)",
+      "path": "02_Proyectos/SharpTask/02_Features/FEAT-04 Dashboard Interactivo (Frontend).md"
+    },
+    {
+      "basename": "FEAT-03 Gestión de Notas",
+      "path": "02_Proyectos/SharpTask/02_Features/FEAT-03 Gestión de Notas.md"
+    },
+    {
+      "basename": "FEAT-02 Persistencia Resiliente",
+      "path": "02_Proyectos/SharpTask/02_Features/FEAT-02 Persistencia Resiliente.md"
+    },
+    {
+      "basename": "RNF-01 Persistencia en Archivos JSON",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RNF-01 Persistencia en Archivos JSON.md"
+    },
+    {
+      "basename": "RF-05 Eliminar Tarea",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-05 Eliminar Tarea.md"
+    },
+    {
+      "basename": "RF-04 Marcar Tarea como Completada",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-04 Marcar Tarea como Completada.md"
+    },
+    {
+      "basename": "RF-03 Editar Tarea",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-03 Editar Tarea.md"
+    },
+    {
+      "basename": "RF-02 Listar y Filtrar Tareas",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-02 Listar y Filtrar Tareas.md"
+    },
+    {
+      "basename": "RF-01 Crear Tarea",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-01 Crear Tarea.md"
+    },
+    {
+      "basename": "ADR-01 Elección de Stack y Persistencia",
+      "path": "02_Proyectos/SharpTask/06_ADRs/ADR-01 Elección de Stack y Persistencia.md"
+    },
+    {
+      "basename": "05_Arquitectura",
+      "path": "02_Proyectos/SharpTask/05_Arquitectura.md"
+    },
+    {
+      "basename": "04_Roadmap",
+      "path": "02_Proyectos/SharpTask/04_Roadmap.md"
+    },
+    {
+      "basename": "01_Vision",
+      "path": "02_Proyectos/SharpTask/01_Vision.md"
+    },
+    {
+      "basename": "00_Index",
+      "path": "02_Proyectos/SharpTask/00_Index.md"
+    },
+    {
+      "basename": "RNF-02 Manejo Correcto de Códigos HTTP",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RNF-02 Manejo Correcto de Códigos HTTP.md"
+    },
+    {
+      "basename": "Plantilla - Proyecto RN-RNF",
+      "path": "99_Templates/Plantilla - Proyecto RN-RNF.md"
+    },
+    {
+      "basename": "07_Dashboard",
+      "path": "02_Proyectos/SharpTask/07_Dashboard.md"
+    },
+    {
+      "basename": "Decorator",
+      "path": "03_Conocimiento/Patrones/Core/Decorator.md"
+    },
+    {
+      "basename": "_launcher_scaffold",
+      "path": "99_Templates/_tmp/_launcher_scaffold.md"
+    },
+    {
+      "basename": "Facade",
+      "path": "03_Conocimiento/Patrones/Core/Facade.md"
+    },
+    {
+      "basename": "Dependency Injection",
+      "path": "03_Conocimiento/Patrones/Core/Dependency Injection.md"
+    },
+    {
+      "basename": "Abstract Factory",
+      "path": "03_Conocimiento/Patrones/Core/Abstract Factory.md"
+    },
+    {
+      "basename": "Core",
+      "path": "03_Conocimiento/Patrones/Core/Core.md"
+    },
+    {
+      "basename": "Bulkhead",
+      "path": "03_Conocimiento/Patrones/Backend/Bulkhead.md"
+    },
+    {
+      "basename": "Circuit Breaker",
+      "path": "03_Conocimiento/Patrones/Backend/Circuit Breaker.md"
+    },
+    {
+      "basename": "Retry Backoff",
+      "path": "03_Conocimiento/Patrones/Backend/Retry Backoff.md"
+    },
+    {
+      "basename": "Rate Limiting",
+      "path": "03_Conocimiento/Patrones/Backend/Rate Limiting.md"
+    },
+    {
+      "basename": "Saga",
+      "path": "03_Conocimiento/Patrones/Backend/Saga.md"
+    },
+    {
+      "basename": "Monolito modular",
+      "path": "03_Conocimiento/Arquitecturas/Monolito modular.md"
+    },
+    {
+      "basename": "CSS - Flexbox Pro (Arquitectura y Casos de Borde)",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Flexbox Pro (Arquitectura y Casos de Borde).md"
+    },
+    {
+      "basename": "03_Conocimiento",
+      "path": "03_Conocimiento/03_Conocimiento.md"
+    },
+    {
+      "basename": "Lenguajes",
+      "path": "03_Conocimiento/Lenguajes/Lenguajes.md"
+    },
+    {
+      "basename": "CSS - Box Model y Propiedades de Caja",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Box Model y Propiedades de Caja.md"
+    },
+    {
+      "basename": "CSS - Pseudo-clases y Combinadores",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Pseudo-clases y Combinadores.md"
+    },
+    {
+      "basename": "HTML - Semántica y Estructura",
+      "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Semántica y Estructura.md"
+    },
+    {
+      "basename": "CSS - Unidades y Tipografía",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Unidades y Tipografía.md"
+    },
+    {
+      "basename": "CSS - Fundamentos y Selectores",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Fundamentos y Selectores.md"
+    },
+    {
+      "basename": "CSS - Grid Pro (Arquitectura y Control Dinámico)",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Grid Pro (Arquitectura y Control Dinámico).md"
+    },
+    {
+      "basename": "CSS - Flexbox y Layout Unidimensional",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Flexbox y Layout Unidimensional.md"
+    },
+    {
+      "basename": "CSS - Grid y Layout Bidimensional",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Grid y Layout Bidimensional.md"
+    },
+    {
+      "basename": "Fundamentos",
+      "path": "03_Conocimiento/Frontend/Fundamentos/Fundamentos.md"
+    },
+    {
+      "basename": "HTML - Accesibilidad y SEO",
+      "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Accesibilidad y SEO.md"
+    },
+    {
+      "basename": "HTML - Diccionario de Componentes",
+      "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Diccionario de Componentes.md"
+    },
+    {
+      "basename": "Factory Method",
+      "path": "03_Conocimiento/Patrones/Core/Factory Method.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
