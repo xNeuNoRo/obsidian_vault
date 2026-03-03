@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "00_Index",
+      "path": "02_Proyectos/SharpTask/00_Index.md"
+    },
+    {
+      "basename": "01_Vision",
+      "path": "02_Proyectos/SharpTask/01_Vision.md"
+    },
+    {
+      "basename": "RNF-01 Demo",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RNF-01 Demo.md"
+    },
+    {
+      "basename": "RF-01 Demo",
+      "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-01 Demo.md"
+    },
+    {
+      "basename": "Decorator",
+      "path": "03_Conocimiento/Patrones/Core/Decorator.md"
+    },
+    {
+      "basename": "_launcher_scaffold",
+      "path": "99_Templates/_tmp/_launcher_scaffold.md"
+    },
+    {
+      "basename": "Facade",
+      "path": "03_Conocimiento/Patrones/Core/Facade.md"
+    },
+    {
+      "basename": "Dependency Injection",
+      "path": "03_Conocimiento/Patrones/Core/Dependency Injection.md"
+    },
+    {
+      "basename": "Abstract Factory",
+      "path": "03_Conocimiento/Patrones/Core/Abstract Factory.md"
+    },
+    {
+      "basename": "Core",
+      "path": "03_Conocimiento/Patrones/Core/Core.md"
+    },
+    {
+      "basename": "Bulkhead",
+      "path": "03_Conocimiento/Patrones/Backend/Bulkhead.md"
+    },
+    {
+      "basename": "Circuit Breaker",
+      "path": "03_Conocimiento/Patrones/Backend/Circuit Breaker.md"
+    },
+    {
+      "basename": "Retry Backoff",
+      "path": "03_Conocimiento/Patrones/Backend/Retry Backoff.md"
+    },
+    {
+      "basename": "Rate Limiting",
+      "path": "03_Conocimiento/Patrones/Backend/Rate Limiting.md"
+    },
+    {
+      "basename": "Saga",
+      "path": "03_Conocimiento/Patrones/Backend/Saga.md"
+    },
+    {
+      "basename": "Monolito modular",
+      "path": "03_Conocimiento/Arquitecturas/Monolito modular.md"
+    },
+    {
+      "basename": "CSS - Flexbox Pro (Arquitectura y Casos de Borde)",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Flexbox Pro (Arquitectura y Casos de Borde).md"
+    },
+    {
+      "basename": "03_Conocimiento",
+      "path": "03_Conocimiento/03_Conocimiento.md"
+    },
+    {
+      "basename": "Lenguajes",
+      "path": "03_Conocimiento/Lenguajes/Lenguajes.md"
+    },
+    {
+      "basename": "CSS - Box Model y Propiedades de Caja",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Box Model y Propiedades de Caja.md"
+    },
+    {
       "basename": "CSS - Pseudo-clases y Combinadores",
       "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Pseudo-clases y Combinadores.md"
     },
@@ -17,16 +97,8 @@
       "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Fundamentos y Selectores.md"
     },
     {
-      "basename": "CSS - Box Model y Propiedades de Caja",
-      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Box Model y Propiedades de Caja.md"
-    },
-    {
       "basename": "CSS - Grid Pro (Arquitectura y Control Dinámico)",
       "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Grid Pro (Arquitectura y Control Dinámico).md"
-    },
-    {
-      "basename": "CSS - Flexbox Pro (Arquitectura y Casos de Borde)",
-      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Flexbox Pro (Arquitectura y Casos de Borde).md"
     },
     {
       "basename": "CSS - Flexbox y Layout Unidimensional",
@@ -49,20 +121,8 @@
       "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Diccionario de Componentes.md"
     },
     {
-      "basename": "Core",
-      "path": "03_Conocimiento/Patrones/Core/Core.md"
-    },
-    {
       "basename": "Factory Method",
       "path": "03_Conocimiento/Patrones/Core/Factory Method.md"
-    },
-    {
-      "basename": "Abstract Factory",
-      "path": "03_Conocimiento/Patrones/Core/Abstract Factory.md"
-    },
-    {
-      "basename": "03_Conocimiento",
-      "path": "03_Conocimiento/03_Conocimiento.md"
     },
     {
       "basename": "04_Diario_Dev",
@@ -75,14 +135,6 @@
     {
       "basename": "01_Universidad",
       "path": "01_Universidad/01_Universidad.md"
-    },
-    {
-      "basename": "Dependency Injection",
-      "path": "03_Conocimiento/Patrones/Core/Dependency Injection.md"
-    },
-    {
-      "basename": "Retry Backoff",
-      "path": "03_Conocimiento/Patrones/Backend/Retry Backoff.md"
     },
     {
       "basename": "Arquitectura CQRS",
@@ -107,10 +159,6 @@
     {
       "basename": "Micro-frontend",
       "path": "03_Conocimiento/Arquitecturas/Micro-frontend.md"
-    },
-    {
-      "basename": "Monolito modular",
-      "path": "03_Conocimiento/Arquitecturas/Monolito modular.md"
     },
     {
       "basename": "Arquitectura en Capas",
@@ -151,54 +199,6 @@
     {
       "basename": "Plantilla - Conocimiento Arquitectura",
       "path": "99_Templates/Plantilla - Conocimiento Arquitectura.md"
-    },
-    {
-      "basename": "Rendering patterns",
-      "path": "03_Conocimiento/Patrones/Frontend/Rendering patterns.md"
-    },
-    {
-      "basename": "Error Boundary",
-      "path": "03_Conocimiento/Patrones/Frontend/Error Boundary.md"
-    },
-    {
-      "basename": "Hook patterns",
-      "path": "03_Conocimiento/Patrones/Frontend/Hook patterns.md"
-    },
-    {
-      "basename": "State management patterns",
-      "path": "03_Conocimiento/Patrones/Frontend/State management patterns.md"
-    },
-    {
-      "basename": "Container - Presentational",
-      "path": "03_Conocimiento/Patrones/Frontend/Container - Presentational.md"
-    },
-    {
-      "basename": "Lenguajes",
-      "path": "03_Conocimiento/Lenguajes/Lenguajes.md"
-    },
-    {
-      "basename": "Composition over Inheritance",
-      "path": "03_Conocimiento/Patrones/Frontend/Composition over Inheritance.md"
-    },
-    {
-      "basename": "State",
-      "path": "03_Conocimiento/Patrones/Core/State.md"
-    },
-    {
-      "basename": "Builder",
-      "path": "03_Conocimiento/Patrones/Core/Builder.md"
-    },
-    {
-      "basename": "Composite",
-      "path": "03_Conocimiento/Patrones/Core/Composite.md"
-    },
-    {
-      "basename": "Event-Driven",
-      "path": "03_Conocimiento/Patrones/Backend/Event-Driven.md"
-    },
-    {
-      "basename": "CQRS",
-      "path": "03_Conocimiento/Patrones/Backend/CQRS.md"
     }
   ],
   "omittedPaths": [],

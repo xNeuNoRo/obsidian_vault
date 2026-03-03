@@ -1,0 +1,208 @@
+{
+  "recentFiles": [
+    {
+      "basename": "02_Proyectos",
+      "path": "02_Proyectos/02_Proyectos.md"
+    },
+    {
+      "basename": "Arquitecturas",
+      "path": "03_Conocimiento/Arquitecturas/Arquitecturas.md"
+    },
+    {
+      "basename": "CSS - Pseudo-clases y Combinadores",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Pseudo-clases y Combinadores.md"
+    },
+    {
+      "basename": "CSS - Unidades y Tipografía",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Unidades y Tipografía.md"
+    },
+    {
+      "basename": "CSS - Flexbox y Layout Unidimensional",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Flexbox y Layout Unidimensional.md"
+    },
+    {
+      "basename": "CSS - Flexbox Pro (Arquitectura y Casos de Borde)",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Flexbox Pro (Arquitectura y Casos de Borde).md"
+    },
+    {
+      "basename": "CSS - Grid y Layout Bidimensional",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Grid y Layout Bidimensional.md"
+    },
+    {
+      "basename": "Error Boundary",
+      "path": "03_Conocimiento/Patrones/Frontend/Error Boundary.md"
+    },
+    {
+      "basename": "Arquitectura en Capas",
+      "path": "03_Conocimiento/Arquitecturas/Arquitectura en Capas.md"
+    },
+    {
+      "basename": "Monolito modular",
+      "path": "03_Conocimiento/Arquitecturas/Monolito modular.md"
+    },
+    {
+      "basename": "Frontend",
+      "path": "03_Conocimiento/Patrones/Frontend/Frontend.md"
+    },
+    {
+      "basename": "Patrones",
+      "path": "03_Conocimiento/Patrones/Patrones.md"
+    },
+    {
+      "basename": "Fundamentos",
+      "path": "03_Conocimiento/Frontend/Fundamentos/Fundamentos.md"
+    },
+    {
+      "basename": "Adapter",
+      "path": "03_Conocimiento/Patrones/Core/Adapter.md"
+    },
+    {
+      "basename": "HTML - Formularios y Validación",
+      "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Formularios y Validación.md"
+    },
+    {
+      "basename": "HTML - Semántica y Estructura",
+      "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Semántica y Estructura.md"
+    },
+    {
+      "basename": "CSS - Fundamentos y Selectores",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Fundamentos y Selectores.md"
+    },
+    {
+      "basename": "CSS - Box Model y Propiedades de Caja",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Box Model y Propiedades de Caja.md"
+    },
+    {
+      "basename": "CSS - Grid Pro (Arquitectura y Control Dinámico)",
+      "path": "03_Conocimiento/Frontend/Fundamentos/CSS - Grid Pro (Arquitectura y Control Dinámico).md"
+    },
+    {
+      "basename": "HTML - Accesibilidad y SEO",
+      "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Accesibilidad y SEO.md"
+    },
+    {
+      "basename": "HTML - Diccionario de Componentes",
+      "path": "03_Conocimiento/Frontend/Fundamentos/HTML - Diccionario de Componentes.md"
+    },
+    {
+      "basename": "Core",
+      "path": "03_Conocimiento/Patrones/Core/Core.md"
+    },
+    {
+      "basename": "Factory Method",
+      "path": "03_Conocimiento/Patrones/Core/Factory Method.md"
+    },
+    {
+      "basename": "Abstract Factory",
+      "path": "03_Conocimiento/Patrones/Core/Abstract Factory.md"
+    },
+    {
+      "basename": "03_Conocimiento",
+      "path": "03_Conocimiento/03_Conocimiento.md"
+    },
+    {
+      "basename": "04_Diario_Dev",
+      "path": "04_Diario_Dev/04_Diario_Dev.md"
+    },
+    {
+      "basename": "01_Universidad",
+      "path": "01_Universidad/01_Universidad.md"
+    },
+    {
+      "basename": "Dependency Injection",
+      "path": "03_Conocimiento/Patrones/Core/Dependency Injection.md"
+    },
+    {
+      "basename": "Retry Backoff",
+      "path": "03_Conocimiento/Patrones/Backend/Retry Backoff.md"
+    },
+    {
+      "basename": "Arquitectura CQRS",
+      "path": "03_Conocimiento/Arquitecturas/Arquitectura CQRS.md"
+    },
+    {
+      "basename": "Backend",
+      "path": "03_Conocimiento/Patrones/Backend/Backend.md"
+    },
+    {
+      "basename": "Plantilla - Conocimiento Algoritmo",
+      "path": "99_Templates/Plantilla - Conocimiento Algoritmo.md"
+    },
+    {
+      "basename": "Algoritmos",
+      "path": "03_Conocimiento/Algoritmos/Algoritmos.md"
+    },
+    {
+      "basename": "Micro-frontend",
+      "path": "03_Conocimiento/Arquitecturas/Micro-frontend.md"
+    },
+    {
+      "basename": "Arquitectura Clean (Onion)",
+      "path": "03_Conocimiento/Arquitecturas/Arquitectura Clean (Onion).md"
+    },
+    {
+      "basename": "Arquitectura Hexagonal",
+      "path": "03_Conocimiento/Arquitecturas/Arquitectura Hexagonal.md"
+    },
+    {
+      "basename": "Arquitectura Event-Driven",
+      "path": "03_Conocimiento/Arquitecturas/Arquitectura Event-Driven.md"
+    },
+    {
+      "basename": "Backend for Frontend",
+      "path": "03_Conocimiento/Arquitecturas/Backend for Frontend.md"
+    },
+    {
+      "basename": "Microservicios",
+      "path": "03_Conocimiento/Arquitecturas/Microservicios.md"
+    },
+    {
+      "basename": "Serverless",
+      "path": "03_Conocimiento/Arquitecturas/Serverless.md"
+    },
+    {
+      "basename": "Observer",
+      "path": "03_Conocimiento/Patrones/Core/Observer.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "03_Conocimiento/Patrones/Core/Singleton.md"
+    },
+    {
+      "basename": "Plantilla - Conocimiento Arquitectura",
+      "path": "99_Templates/Plantilla - Conocimiento Arquitectura.md"
+    },
+    {
+      "basename": "Rendering patterns",
+      "path": "03_Conocimiento/Patrones/Frontend/Rendering patterns.md"
+    },
+    {
+      "basename": "Hook patterns",
+      "path": "03_Conocimiento/Patrones/Frontend/Hook patterns.md"
+    },
+    {
+      "basename": "State management patterns",
+      "path": "03_Conocimiento/Patrones/Frontend/State management patterns.md"
+    },
+    {
+      "basename": "Container - Presentational",
+      "path": "03_Conocimiento/Patrones/Frontend/Container - Presentational.md"
+    },
+    {
+      "basename": "Lenguajes",
+      "path": "03_Conocimiento/Lenguajes/Lenguajes.md"
+    },
+    {
+      "basename": "Composition over Inheritance",
+      "path": "03_Conocimiento/Patrones/Frontend/Composition over Inheritance.md"
+    },
+    {
+      "basename": "State",
+      "path": "03_Conocimiento/Patrones/Core/State.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

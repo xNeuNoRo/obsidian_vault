@@ -1,6 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "calendar",
+  "obsidian-git",
   "obsidian-icon-folder",
   "recent-files-obsidian",
   "obsidian-linter",
@@ -21,7 +22,5 @@
   "obsidian-markmind",
   "obsidian-languagetool-plugin",
   "dataview",
-  "cmdr",
-  "obsidian-trash-explorer",
-  "obsidian-git"
+  "cmdr"
 ]

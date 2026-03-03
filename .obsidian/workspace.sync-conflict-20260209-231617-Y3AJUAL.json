@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "47daff6f14495676",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ff316307621ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e5e3a3058e85662",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b442eefb907e13ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad0958ef569262c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34852390be823b92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dacb0d9ca87f9855",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "52a3dfb88ace878a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "484f38afdf4b9356",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "bbb0488bc794cdcf",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "d68c6e4b4bb70180",
+    "type": "split",
+    "children": [
+      {
+        "id": "99c58def7ecc3dad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7530338a053148d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3f2231341e3565de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0044207faddb22ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84340e5e3be51ed0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "19ce2a2f20d6b127",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99_Templates/Plantilla - Proyecto Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plantilla - Proyecto Dashboard"
+            }
+          },
+          {
+            "id": "95cf62d15ef12096",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "9f7616de3c81bd43",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:QuickAdd: Nuevo Proyecto (Scaffold)": false
+    }
+  },
+  "active": "4e5e3a3058e85662",
+  "lastOpenFiles": [
+    "02_Proyectos/02_Proyectos.md",
+    "03_Conocimiento/Arquitecturas/Arquitecturas.md",
+    "03_Conocimiento/Frontend/Fundamentos/CSS - Pseudo-clases y Combinadores.md",
+    "03_Conocimiento/Frontend/Fundamentos/CSS - Unidades y Tipografía.md",
+    "03_Conocimiento/Frontend/Fundamentos/CSS - Flexbox y Layout Unidimensional.md",
+    "03_Conocimiento/Frontend/Fundamentos/CSS - Grid y Layout Bidimensional.md",
+    "03_Conocimiento/Frontend/Fundamentos/CSS - Box Model y Propiedades de Caja.md",
+    "03_Conocimiento/Frontend/Fundamentos/CSS - Flexbox Pro (Arquitectura y Casos de Borde).md",
+    "03_Conocimiento/Patrones/Frontend/Error Boundary.md",
+    "03_Conocimiento/Arquitecturas/Arquitectura en Capas.md",
+    "03_Conocimiento/Arquitecturas/Monolito modular.md",
+    "03_Conocimiento/Patrones/Frontend/Frontend.md",
+    "03_Conocimiento/Patrones/Patrones.md",
+    "03_Conocimiento/Frontend/Fundamentos/Fundamentos.md",
+    "03_Conocimiento/Patrones/Core/Adapter.md",
+    "03_Conocimiento/Frontend/Fundamentos/HTML - Formularios y Validación.md",
+    "03_Conocimiento/Frontend/Fundamentos/HTML - Semántica y Estructura.md",
+    "03_Conocimiento/Frontend/Fundamentos/CSS - Fundamentos y Selectores.md",
+    "03_Conocimiento/Frontend/Fundamentos/CSS - Grid Pro (Arquitectura y Control Dinámico).md",
+    "03_Conocimiento/Frontend/Fundamentos/attachments/Pasted image 20260202163853.png",
+    "03_Conocimiento/Frontend/Fundamentos/attachments/Pasted image 20260202163815.png",
+    "03_Conocimiento/Frontend/Fundamentos/attachments/Pasted image 20260202163745.png",
+    "03_Conocimiento/Frontend/Fundamentos/attachments/Pasted image 20260202163610.png",
+    "03_Conocimiento/Frontend/Fundamentos/attachments/Pasted image 20260202163232.png",
+    "03_Conocimiento/Frontend/Fundamentos/attachments",
+    "03_Conocimiento/Frontend/Fundamentos/HTML - Accesibilidad y SEO.md",
+    "03_Conocimiento/Frontend/Fundamentos/HTML - Diccionario de Componentes.md",
+    "03_Conocimiento/Patrones/Core/Core.md",
+    "03_Conocimiento/Patrones/Core/Factory Method.md",
+    "03_Conocimiento/Patrones/Core/Abstract Factory.md",
+    "03_Conocimiento/Frontend/Fundamentos",
+    "03_Conocimiento/Frontend/Frontend.md",
+    "03_Conocimiento/Frontend",
+    "03_Conocimiento/03_Conocimiento.md",
+    "03_Conocimiento/Arquitecturas/attachments/Micro-Frontend Architecture.png",
+    "03_Conocimiento/Arquitecturas/attachments/CQRS Architecture.png",
+    "03_Conocimiento/Arquitecturas/attachments/Serverless Architecture.png",
+    "03_Conocimiento/Arquitecturas/attachments/Backend for Frontend Architecture.png",
+    "03_Conocimiento/Arquitecturas/attachments/Event-Driven Architecture.png",
+    "03_Conocimiento/Arquitecturas/attachments",
+    "03_Conocimiento/Patrones/Frontend",
+    "03_Conocimiento/Patrones/Backend",
+    "03_Conocimiento/Patrones/Core",
+    "03_Conocimiento/Patrones/Anti-Patterns",
+    "02_Proyectos/nightcloud/06_ADRs",
+    "02_Proyectos/nightcloud/03_Requerimientos"
+  ]
+}
