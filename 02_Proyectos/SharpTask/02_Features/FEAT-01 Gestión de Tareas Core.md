@@ -1,13 +1,13 @@
 ---
 doc: feature
 id: FEAT-01
-project: "SharpTask"
-status: Planned           
-priority: High          
-release: MVP              
-owner: "Angel Gonzalez M."
-depends_on: []            
-requires: 
+project: SharpTask
+status: Doing
+priority: High
+release: MVP
+owner: Angel Gonzalez M.
+depends_on: []
+requires:
   - RF-01
   - RF-02
   - RF-03
@@ -16,7 +16,10 @@ requires:
   - RNF-01
 created: 2026-03-02
 updated: 2026-03-02
-tags: [feature, core, crud]
+tags:
+  - feature
+  - core
+  - crud
 ---
 
 # `= this.id` — Gestión de Tareas (Core)
