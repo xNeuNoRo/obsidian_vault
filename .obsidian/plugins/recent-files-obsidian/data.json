@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "08_Esquemas_JSON",
+      "path": "02_Proyectos/SharpTask/08_Esquemas_JSON.md"
+    },
+    {
       "basename": "RF-09 Eliminar Nota",
       "path": "02_Proyectos/SharpTask/03_Requerimientos/RF-09 Eliminar Nota.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Factory Method",
       "path": "03_Conocimiento/Patrones/Core/Factory Method.md"
-    },
-    {
-      "basename": "04_Diario_Dev",
-      "path": "04_Diario_Dev/04_Diario_Dev.md"
     }
   ],
   "omittedPaths": [],

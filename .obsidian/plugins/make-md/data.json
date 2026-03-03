@@ -67,10 +67,7 @@
     "03_Conocimiento/03_Conocimiento/Patrones",
     "03_Conocimiento/03_Conocimiento/Lenguajes",
     "02_Proyectos/02_Proyectos/SharpTask",
-    "02_Proyectos/02_Proyectos/SharpTask/02_Proyectos/SharpTask/02_Features",
-    "99_Templates",
-    "02_Proyectos/02_Proyectos/SharpTask/02_Proyectos/SharpTask/06_ADRs",
-    "02_Proyectos/02_Proyectos/SharpTask/02_Proyectos/SharpTask/03_Requerimientos"
+    "99_Templates"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
